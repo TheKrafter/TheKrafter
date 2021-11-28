@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @TheKrafter My Discord is TheKrafter2217#9211, but my DMs are closed right now. You can visit my gitpage at https://thekrafter.github.io/
-
+- 👋 Hi, I’m @TheKrafter. Im a Linux user (Pop!_OS) and a casual "programmer". I only have knowledge in HTML & CSS (and with Bootstrap) and a little Python; I intend to expand on this in the future.
