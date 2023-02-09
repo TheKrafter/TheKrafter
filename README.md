@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @TheKrafter. Im a Linux user (Fedora, GNOME on my Desktop, and i3wm on my laptop. Mobian Phosh on Mobile) and a casual "programmer". I only have knowledge in HTML & CSS (and with Bootstrap) and a little Python (and ofc bash); I intend to expand on this in the future.
 - 💼 Dev at [@RoseSMP](https://github.com/RoseSMP). It's a neat minecraft server Im an admin on, with the owner [@fizzrepo](https://github.com/fizzrepo). Originally started by british youtuber [Matt Rose](https://www.youtube.com/c/MattRoseStuff).
 - 🇺🇸 I live in the Midwesten United States, so yeah
-- 👱 Im a cis, het, white, blonde, american male.
-- at least im still in my teens
+- :crab: Python dev, learning Rust!
